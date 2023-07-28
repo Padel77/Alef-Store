@@ -1,0 +1,33 @@
+/*     store    */
+.card-img-overlay{
+    position: relative;
+}
+.card-img-overlay button a{
+    text-decoration: none;
+    color: white;
+}
+.card-img-overlay button a:hover{
+    text-decoration: none;
+    color: #000;
+}
+.card-title{
+    width: 100%;
+    background-color: rgba(240, 248, 255, 0.752);
+    height: 2em;
+    color: #000 !important; 
+    margin-bottom: 0 !important;
+    font-size: 18px;
+}
+.card-img{
+    filter: blur(1.5px);
+}
+.card-img:hover{
+    transform: scale(1.5);
+}
+.card-text{
+    color: #000;
+}
+.heading{
+    margin-top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

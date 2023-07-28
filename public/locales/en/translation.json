@@ -1,0 +1,207 @@
+{
+    "description" : "Edit <1>src/App.js</1> and save to reload.",
+    "learn" : "Learn React",
+    "navbar":{
+        "home":"HOME",
+        "store":"CATEGORY",
+        "tranding":"TRANDING NOW",
+        "about":"ABOUT",
+        "contact":"CONTACT",
+        "trans":"TRANS"
+    },
+    "footer":{
+        "home":"HOME",
+        "store":"CATEGORY",
+        "tranding":"TRANDING NOW",
+        "about":"ABOUT",
+        "contact":"CONTACT",
+        "desc1":"Alef Bookstore-New Cairo",
+        "desc2":"Copyright © 2023 All rights reserved"
+    },
+    "home":{
+        "hero":{
+            "title":"Alef Bookstore - New Cairo",
+            "description":"Maxim Mall - Deem for Book Trading",
+            "license":"Taxation License :"
+        },
+        "category":{
+            "title":"Main Categories",
+            "num-text":"Products",
+            "btn":"Shop Now"
+        },
+        "tranding":{
+            "title":"Trending Now",
+            "btn":"View Details"
+        },
+        "about":{
+            "title":"About The Store",
+            "description1":"Deem for Book Trading is the official Franchise owner of Alef Bookstore in New Cairo. Founded in Sept 2018, and located in Maxim Mall",
+            "description2":"We are very passionate about books, and we will definitely guide the store visitors to the best books matching their taste and interests.",
+            "description3":"In Alef Bookstore,You can only find original books with wide variety and different genres. We have 3 Sections; Arabic books for all ages, English books for all ages and a recently added small section for French Children Books",
+            "description4":"This is in addition to the non-books collection of Notebooks, Coloring Books, stationery, games and Laptop Sleeves."
+        },
+        "contact":{
+            "title":"Contact Us",
+            "address1":"North Teseen Street, First New Cairo, Cairo Governorate, Egypt",
+            "address2":"90 Road North - Maxim Mall - First Floor",
+            "calling":"01016338149 - Alef Maxim Mall",
+            "email":"customerservicedeem@gmail.com",
+            "time":"10AM - 10PM",
+            "qhelp":"how can we help?",
+            "l-name":"Name",
+            "l-email":"Email",
+            "l-message":"Message",
+            "btn-submit":"Send Message"
+        }
+    },
+    "product-list":{
+        "shop":{
+            "home":"HOME",
+            "store":"STORE",
+            "title":"NOVELS & ADULTS FICTION"
+        },
+        "sort":{
+            "title":"Sort By",
+            "op1":"Price,high to low",
+            "op2":"Price,low to high"
+        },
+        "filter":{
+            "title":"Filter By",
+            "t-price":"Price",
+            "p1":" Under 50 EGP",
+            "p2":" 50 EGP - 100 EGP",
+            "p3":" 100 EGP - 200 EGP",
+            "p4":" 200 EGP - 300 EGP",
+            "p5":" Above 300 EGP",
+            "t-author":"Author"
+        },
+        "product":{
+            "btn":"View Details"
+        }
+    },
+    "product-details":{
+        "home":"HOME",
+        "store":"STORE",
+        "title":"NOVELS & ADULTS FICTION",
+        "p-egp":"EGP",
+        "t-page":"Pages",
+        "t-category":"Category : ",
+        "t-publication":"Publication",
+        "t-author":"Author",
+        "t-shipping":"Shipping",
+        "shipping":"Shipping Cairo - Giza (3 Working Days)",
+        "t-policy":" Return Policy",
+        "policy1":"No returns Or Exchange for Books & Printed Materials as per Egyptian Law",
+        "policy2":"For Non Books Items : return to store within 14 days in its same condition and package",
+        "btn-cart":"Add to cart",
+        "learn":"Learn More",
+        "related":"Related Product"
+    },
+    "review":{
+        "title":"Reviews",
+        "l-name":"User Name",
+        "l-message":"Message",
+        "btn":"Submit",
+        "no-comment":"No Reviews yet on this book"
+    },
+    "client-zone":{
+        "client":{
+            "profile":"PROFILE",
+            "reg-title": "REGISTER",
+            "log-title": "LOGIN",
+            "btn-log":"LogOut",
+            "t-profile":"Profile",
+            "t-address":"My Addresses",
+            "t-store":"My Store",
+            "reg-email":"Please enter your Email",
+            "reg-pass":"Please enter your Password",
+            "reg-btn-login":"LOGIN",
+            "reg-account":"Need An Account ?",
+            "sign":"SignUp",
+            "acount":"If you have Account already?",
+            "reg-continue-using":"Or Continue Using",
+            "reg-con-fb":"Continue with Facebook",
+            "reg-con-g":"Continue with Google"
+        },
+        "ٌreg":{
+            "title": "CLIENT ZONE",
+            "email":"please enter your email",
+            "btn-sign":"Sign in or Create an Account",
+            "continue-using":"Or Continue Using",
+            "con-fb":"Continue with Facebook",
+            "con-g":"Continue with Google"
+        },
+        "profile":{
+            "l-fname":"First Name",
+            "l-country":"Country",
+            "l-lname":"Last Name",
+            "l-phone":"Phone",
+            "l-sub":"Subscribe",
+            "sub-text":"Receive our latest news and updates!",
+            "check":"Keep me updated",
+            "btn":"Save"
+        },
+        "myaddress":{
+            "address":{
+                "empty-title":"You still did not save an address",
+                "btn-add":"Add New Address"
+            }
+        },
+        "store":{
+            "title":"Orders"
+        }
+    },
+    "side-cart":{
+        "title":"Your cart",
+        "empty-text":"Your shipping cart is empty",
+        "total":"Total",
+        "btn-delete-all":"EMPTY CART",
+        "btn-order":"MAKE AN OREDER",
+        "btn-loginFirst":"PLEASE LOGIN TO MAKE AN ORDER",
+        "btn-continue":"CONTINUE SHOPPING"
+    },
+    "order":{
+        "title":"COMPLETE YOUR ORDER",
+        "thanks":"THANK YOU FOR YOUR ORDER !",
+        "btn-continue":"CONTINUE SHOPPING",
+        "info":"Enter your info",
+        "delivery":"Delivery Options",
+        "payment":"Payment",
+        "info-sec":{
+            "l-email":"Email*",
+            "l-name":"Full Name *",
+            "l-country":"Country *",
+            "l-address":"Address *",
+            "l-city":"City *",
+            "l-phone":"Phone *",
+            "l-land":"Landmark(optional)",
+            "btn":"SAVE AND CONTINUE",
+            "quan":"Quantity",
+            "total":"total"
+        },
+        "delivery-sec":{
+            "cairo":"Shipping Cairo-Giza",
+            "alex":"Shipping Alexandria",
+            "canal":"Shipping Canal Cities",
+            "upper-eg":"Shipping Upper Egypt",
+            "sina":"Shipping Sinai and Red Sea",
+            "delta":"Shipping Delta Region",
+            "num-day":"(5 working days)",
+            "p1":"45 EGP",
+            "p2":"50 EGP",
+            "p3":"70 EGP",
+            "p4":"90 EGP",
+            "p5":"60 EGP",
+            "p6":"55 EGP",
+            "btn":"SAVE AND CONTINUE",
+            "quan":"Quantity",
+            "total":"total"
+        },
+        "payment-sec":{
+            "choose-method":"Please choose your payment method",
+            "cash":"Cash on Delivery",
+            "btn-order":"PLACE ORDER",
+            "alert-comp":"Transaction completed by"
+        }
+    }
+}

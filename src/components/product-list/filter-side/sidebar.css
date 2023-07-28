@@ -1,0 +1,42 @@
+div.small {
+    border-top: 4px solid #900c3f;
+    margin: 1rem;
+    width: 3rem;
+}
+body[dir='rtl'] .breadcrumb-item::before{
+    float: right;
+    padding: 0 10px;
+}
+.breadcrumb .breadcrumb-item a{
+    color: #900c3f !important;  
+    text-decoration: none;
+}
+.breadcrumb .nav-link{
+    display: inline-block;
+}
+.breadcrumb .active{
+    color: #000 !important;  
+}
+.product , .breadcrumb-nav{
+    margin: 40px;
+}
+
+div .list-group-item{
+    border: none;
+    background-color: #f2f2f2 !important;
+}
+.form-check-input:checked{
+    background-color: #900c3f !important;
+    border-color: #900c3f !important;
+}
+.list-group-item label{
+    color: #900c3f;
+}
+.bi {
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+}
+.bi:hover {
+    transform: scale(1.3);
+}

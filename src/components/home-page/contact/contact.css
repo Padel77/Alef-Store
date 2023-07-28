@@ -1,0 +1,47 @@
+
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 50%;
+    position: relative;
+    height: 0;
+  }
+  
+  .map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+  
+  #footer_social a :hover,
+  #navy a :hover {
+    color: #900c3f;
+  }
+ 
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #900c3f !important;
+    border-color: #900c3f !important;
+    width: 100%;
+  }
+  
+  #Contact a :hover , .contact-info i {
+    font-size: 20px;
+    padding-right: 5px;
+    color: #900c3f !important;
+  }
+  .contact-info a{
+    color: #900c3f !important;
+    text-decoration: none;
+  }
+  
+  #Contact,
+  #About {
+    padding-top: 60px;
+  }
+  
+  #About {
+    padding-top: 95px;
+  }/*# sourceMappingURL=style.css.map */
